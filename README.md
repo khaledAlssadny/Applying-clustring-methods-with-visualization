@@ -1,5 +1,6 @@
 # **Applying-clustring-methods-with-analyses the data with visualization project
-Data Set Name : Credit Card Customer Data
+## **Data Set Name:**
+* Credit Card Customer Data
 Data Set Link : https://www.kaggle.com/aryashah2k/credit-card-customer-data
 Description : A Customer Credit Card Information Dataset which can be used for Identifying Loyal Customers, Customer Segmentation, Targeted Marketing and other such use cases in the Marketing Industry.
 Content :
