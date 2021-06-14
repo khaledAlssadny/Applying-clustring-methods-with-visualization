@@ -7,13 +7,13 @@
 * A Customer Credit Card Information Dataset which can be used for Identifying Loyal Customers, Customer Segmentation, Targeted Marketing and other such use cases in the Marketing Industry.
 ## **Content :**
 * The Attributes Include:
--	Sl_No
--	Customer Key
--	AvgCreditLimit
--	TotalCreditCards
--	Totalvisitsbank
--	Totalvisitsonline
--	Totalcallsmade
+    -	Sl_No
+    -	Customer Key
+    -	AvgCreditLimit
+    -	TotalCreditCards
+    -	Totalvisitsbank
+    -	Totalvisitsonline
+    -	Totalcallsmade
 
 ## **The target from this application :**
 -	Perform Gathering data , Assessing , Data-Cleaning , Preprocessing  and Feature Engineering on the Dataset.
